@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first line
 asdads
+=======
+1232113
+>>>>>>> conflict
